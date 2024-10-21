@@ -8,12 +8,12 @@ const quizData = [
     correct: "d",
   },
   {
-    question: "What does CSS stand for?",
-    a: "Central Style Sheets",
-    b: "Cascading Style Sheets",
-    c: "Cascading Simple Sheets",
-    d: "Cars SUVs Sailboats",
-    correct: "b",
+    question: "hsi의 설명으로 옳지 않은것은",
+    a: "HSI 모델은 색상을 RGB 모델로 변환하기 위해 사용된다.",
+    b: "  HSI에서 'H'는 'Hue'를 의미하며, 색상의 종류를 나타낸다",
+    c: "HSI 모델은 색상을 흑백으로 변환하는 데 사용된다",
+    d: "HSI에서 'I'는 'Intensity'를 의미하며, 색상의 채도를 나타낸다.",
+    correct: "HSI 모델은 주로 컴퓨터 그래픽스에서만 사용된다.",
   },
   {
     question: "What does HTML stand for?",
